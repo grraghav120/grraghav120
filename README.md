@@ -10,6 +10,9 @@
 
 - 📫 How to reach me **grraghav120@gmail.com**
 <hr>
+
+[![@grraghav120's Holopin board](https://holopin.me/grraghav120)](https://holopin.io/@grraghav120)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/grraghav120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="grraghav120" height="30" width="40" /></a>
@@ -27,8 +30,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=grraghav120&show_icons=true&locale=en" alt="grraghav120" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120&" alt="grraghav120" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" /></p>
-![@grraghav120's Holopin board](https://holopin.me/grraghav120)(https://holopin.io/@grraghav120)
-<!-- ![image](https://user-images.githubusercontent.com/96789493/199408531-c7a351dd-48ad-438e-a648-441968d06b35.png) -->
+<!-- [![@grraghav120's Holopin board](https://holopin.me/grraghav120)](https://holopin.io/@grraghav120) -->
+
 
 
 <!---
