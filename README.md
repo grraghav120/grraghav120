@@ -27,7 +27,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=grraghav120&show_icons=true&locale=en" alt="grraghav120" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120&" alt="grraghav120" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" /></p>
-[![@grraghav120's Holopin board](https://holopin.me/grraghav120)](https://holopin.io/@grraghav120)
+![@grraghav120's Holopin board](https://holopin.me/grraghav120)(https://holopin.io/@grraghav120)
+<!-- ![image](https://user-images.githubusercontent.com/96789493/199408531-c7a351dd-48ad-438e-a648-441968d06b35.png) -->
+
 
 <!---
 grraghav120/grraghav120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
