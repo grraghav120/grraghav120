@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raghav Garg pursuing Bachelor's of Technology in computer science and engineering.</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3 align="center"> I’m interested in open source projects and learning new algorithims.</h3>
 <h3 align="center"> I’m looking to collaborate on open source projects as well as industrial real world projects</h3>
 <p></p>
@@ -10,6 +11,8 @@
 
 - 📫 How to reach me **grraghav120@gmail.com**
 <hr>
+
+<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%2016%20mins-blue) -->
 
 [![@grraghav120's Holopin board](https://holopin.me/grraghav120)](https://holopin.io/@grraghav120)
 
