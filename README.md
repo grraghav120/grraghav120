@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raghav Garg</h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h4> I'm currently pursuing Bachelor's of Technology in Computer Science and Engineering </h4>
-<h4 align="center"> I’m interested in open source projects and learning new algorithims.</h3>
-<h4 align="center"> I’m looking to collaborate on open source projects as well as industrial real world projects</h3>
+<h4> I’m interested in open source projects and learning new algorithims.</h3>
+<h4> I’m looking to collaborate on open source projects as well as industrial real world projects</h3>
 <p></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grraghav120" alt="grraghav120" /></a> </p>
 
