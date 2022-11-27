@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghav Garg</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/raghavgarg2002/" target="_blank">Raghav Garg </a></h1>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h4> I'm currently pursuing Bachelor's of Technology in Computer Science and Engineering </h4>
 <h4> I’m interested in open source projects and learning new algorithims.</h3>
