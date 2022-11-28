@@ -15,6 +15,8 @@
 
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%2016%20mins-blue) -->
 
+<h2>Hacktober Fest' 22</h2>
+
 [![@grraghav120's Holopin board](https://holopin.me/grraghav120)](https://holopin.io/@grraghav120)
 
 <h3 align="left">Connect with me:</h3>
