@@ -74,13 +74,16 @@
 <!-- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp; -->
 <!-- ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp; -->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
+ 
 </div>
  
+<br>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=grraghav120&show_icons=true&locale=en" alt="grraghav120" /></p>
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120&" alt="grraghav120" /></p>
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" /></p>
-<!-- [![@grraghav120's Holopin board](https://holopin.me/grraghav120)](https://holopin.io/@grraghav120) -->
 
 
 
