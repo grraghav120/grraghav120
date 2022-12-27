@@ -77,12 +77,12 @@
  
 </div>
  
-<br>
+<hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=grraghav120&show_icons=true&locale=en" alt="grraghav120" /></p>
-<br>
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120&" alt="grraghav120" /></p>
-<br>
+<hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" /></p>
 
 
