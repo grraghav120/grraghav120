@@ -39,7 +39,7 @@
 
 <!-- replacer_start -->
 
-![grraghav120](https://komarev.com/ghpvc/?username=grraghav120&label=Visitors&color=0e75b6&style=flat)&nbsp; ![version :2022.12.27](https://img.shields.io/badge/version-2022.12.27-informational)
+![grraghav120](https://komarev.com/ghpvc/?username=grraghav120&label=Visitors&color=0e75b6&style=flat)&nbsp;
 
 <!-- replacer_end -->
 
