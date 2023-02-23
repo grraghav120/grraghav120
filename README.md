@@ -8,7 +8,7 @@
 
 <!-- - 🌱 I’m currently learning **this beautiful world of computer science and programming and learning DSA to strong my problem solving skills.** -->
 
-- 💬 Ask me about **C++, JavaScript, HTML/CSS, Python, Open Source**
+- 💬 Ask me about **C++, Angular, JavaScript, HTML/CSS, Python, Open Source**
 
 - 📫 How to reach me **grraghav120@gmail.com**
 <hr>
@@ -67,13 +67,16 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 <!-- ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp; -->
 <!-- ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp; -->
+ 
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+ ![Angular Material](https://img.shields.io/badge/-AngularMaterial-05122A?style=flat&logo=angular)&nbsp;
 <!-- ![Gatsby](https://img.shields.io/badge/-Gatsby-05122A?style=flat&logo=gatsby&logoColor=663399)&nbsp; -->
 <!-- ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) -->
 
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-<!-- ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp; -->
-<!-- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp; -->
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 <!-- ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp; -->
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
  
