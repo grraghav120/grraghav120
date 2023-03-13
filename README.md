@@ -8,7 +8,7 @@
 
 <!-- - 🌱 I’m currently learning **this beautiful world of computer science and programming and learning DSA to strong my problem solving skills.** -->
 
-- 💬 Ask me about **C++, Angular, JavaScript, HTML/CSS, Python, Open Source**
+- 💬 Ask me about **C++, JavaScript, HTML/CSS, Python, Open Source**
 
 - 📫 How to reach me **grraghav120@gmail.com**
 <hr>
