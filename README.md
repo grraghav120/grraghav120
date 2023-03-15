@@ -14,6 +14,7 @@
 <hr>
 
 <!-- ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%2016%20mins-blue) -->
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/grraghav)](https://leetcode.com/grraghav)
 
 <h2 align="center">Hacktober Fest' 22</h2>
 
