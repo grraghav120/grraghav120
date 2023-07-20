@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/raghavgarg2002/" target="_blank">Raghav Garg </a></h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
 <h4> I'm currently pursuing Bachelor's of Technology in Computer Science and Engineering </h4>
 <h4> I’m interested in open source projects and learning new algorithims.</h3>
 <h4> I’m looking to collaborate on open source projects as well as industrial real world projects</h3>
@@ -13,8 +13,7 @@
 - 📫 How to reach me **grraghav120@gmail.com**
 <hr>
 
-<!-- ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C066%20hrs%2016%20mins-blue) -->
-<!--  [![Leetcode Stats](https://leetcard.jacoblin.cool/grraghav)](https://leetcode.com/grraghav) -->
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/grraghav)](https://leetcode.com/grraghav) -->
 
 <h2 align="center">Hacktober Fest' 22</h2>
 
@@ -56,7 +55,6 @@
 
 ![Mysql](https://img.shields.io/badge/-Mysql-05122A?style=flat&logo=mysql)&nbsp;
 <!-- ![Postgre Sql](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=0064a5)&nbsp; -->
-
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -85,11 +83,14 @@
  
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=grraghav120&show_icons=true&locale=en" alt="grraghav120" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=grraghav120&show_icons=true&locale=en" alt="grraghav120" /></p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120&" alt="grraghav120" /></p>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" /></p>
+<p align="center">
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120&" alt="grraghav120" />
+ <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" />
+</p>
+<!-- <hr>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" /></p> -->
 
 
 
