@@ -19,6 +19,8 @@
 
 [![@grraghav120's Holopin board](https://holopin.me/grraghav120)](https://holopin.io/@grraghav120)
 
+![Blank 1 Panel Landscape Comic Strip](https://github.com/grraghav120/grraghav120/assets/96789493/b4e658b6-a901-40c5-ad34-4a4bff49029e)
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/grraghav120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="grraghav120" height="30" width="40" /></a>
