@@ -1,15 +1,11 @@
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/raghavgarg2002/" target="_blank">Raghav Garg </a></h1>
-<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
-<h4> I'm currently pursuing Bachelor's of Technology in Computer Science and Engineering </h4>
-<h4> I’m interested in open source projects and learning new algorithims.</h3>
-<h4> I’m looking to collaborate on open source projects as well as industrial real world projects</h3>
-<p></p>
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grraghav120" alt="grraghav120" /></a> </p> -->
+<h1 align="center">
+ Hi 👋, I'm <a href="https://www.linkedin.com/in/raghavgarg2002/" target="_blank">Raghav Garg 
+ </a>
+</h1>
 
-<!-- - 🌱 I’m currently learning **this beautiful world of computer science and programming and learning DSA to strong my problem solving skills.** -->
-
-- 💬 Ask me about **C++, JavaScript, HTML/CSS, Python, Open Source,MEAN (MongoDB, ExpressJS, AngularJS, NodeJS)**
-
+- I'm currently pursuing Bachelor's of Technology in Computer Science and Engineering
+- I’m looking to collaborate on open source projects as well as industrial real world projects
+- 💬 Ask me about **C++, JavaScript, Python, Open Source, MEAN (MongoDB, ExpressJS, AngularJS, NodeJS)**
 - 📫 How to reach me **grraghav120@gmail.com**
 <hr>
 
@@ -52,13 +48,9 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=grraghav120&show_icons=true&locale=en" alt="grraghav120" /></p>
 <hr>
 <p align="center">
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120&" alt="grraghav120" />
- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" />
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120" alt="grraghav120" />
+ <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" />
 </p>
-<!-- <hr>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" /></p> -->
-
-
 
 <!---
 grraghav120/grraghav120 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
