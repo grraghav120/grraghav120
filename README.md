@@ -5,7 +5,7 @@
 
 - I'm currently pursuing Bachelor's of Technology in Computer Science and Engineering
 - I’m looking to collaborate on open source projects as well as industrial real world projects
-- 💬 Ask me about **C++, JavaScript, Python, Open Source, MEAN (MongoDB, ExpressJS, AngularJS, NodeJS)**
+- 💬 Ask me about **C++, JavaScript, MEAN (MongoDB, ExpressJS, AngularJS, NodeJS)**
 - 📫 How to reach me **grraghav120@gmail.com**
 <hr>
 
