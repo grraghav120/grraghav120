@@ -47,7 +47,7 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=grraghav120&show_icons=true&locale=en" alt="grraghav120" /></p>
 <hr>
 <p align="center">
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120" alt="grraghav120" />
+ <!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=grraghav120" alt="grraghav120" /> -->
  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=grraghav120&show_icons=true&locale=en&layout=compact" alt="grraghav120" />
 </p>
 
